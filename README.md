@@ -30,28 +30,29 @@ Before using Sam you must setup your config.json file. To do so, run the setup.p
 
 #### Commands:
 
-After saying one of the activation commands ('Sam', 'Hey Sam', 'Ok Sam'), Sam will say 'Yes?'. Then he will start listening for additional commands.
+After saying one of the activation commands ('Sam', 'Hey Sam', 'Ok Sam'), Sam will say 'Yes?'. Then he will start listening for additional commands. At this point you can use these commands:
 
-| Voice Commands (everything in parenthesis is not part of the command, its the explanation/description): |
-| :----------------------------------------------------------- |
-| what is 2 times 2 plus 4 squared minus 3 to the power of 4?  **(Sam can do math)** |
-| reboot  **(restart Sam)**                                    |
-| shutdown  **(shutdown Sam, exit the program)**               |
-| what is your name?  **(Sam tells you his short and full name)** |
-| help  **(opens this list of commands)**                      |
-| what can you do?  **(same as 'help' command)**               |
-| nevermind  **(Sam goes back to listening for activation keywords, his response: 'Ok')** |
-| what's the time?  **(Sam tells you the time in the 24 hour format)** |
-| what's the date?  **(Sam tells you the day, month, year)**   |
-| open YouTube  **(opens the YouTube website. Also works with: Github, StackOverFlow, Weather.com, Google Translate, Gmail)** |
-| translate dog to Russian  **(opens the Google Translate website with the word(s) translated to Russian)** |
-| translate cat to Ukrainian  **(opens the Google Translate website with the word(s) translated to Ukrainian)** |
-| open {YOUR_BROWSER_NAME}  **(this will open the 'custom' browser you specified during setup)** |
-| open Google Chrome  **(opens Google Chrome on *Windows 10* if it is in the default installation location)** |
-| open Sublime Text  **(opens Sublime Text 3 on *Windows 10* if it is in the default installation location)** |
-| Dwayne Johnson Wikipedia  **(reads out the first 2 sentences of the wiki page on what you asked)** |
-| what is claustrophobia?  **(explains what somethings means, first 2 sentences of the wiki page)** |
-| send an email to {CONTACT_NAME}  **(send emails to contacts that you have specified during setup)** |
+| Voice Commands                                              | Explanation/Description                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------ |
+| what is 2 times 2 plus 4 squared minus 3 to the power of 4? | Sam can do math                                              |
+| reboot                                                      | restart Sam                                                  |
+| shutdown                                                    | shutdown Sam, exit the program                               |
+| what is your name?                                          | Sam tells you his short and full name                        |
+| help                                                        | opens this list of commands                                  |
+| what can you do?                                            | same as 'help' command                                       |
+| nevermind                                                   | Sam goes back to listening for activation keywords, his response: 'Ok' |
+| what's the time?                                            | Sam tells you the time in the 24 hour format                 |
+| what's the date?                                            | Sam tells you the day, month and year                        |
+| open YouTube                                                | opens the YouTube website. Also works with: GitHub, Stack Overflow, Weather.com, Google Translate and Gmail |
+| translate dog to Russian                                    | opens the Google Translate website with the word(s) translated to Russian |
+| translate cat to Ukrainian                                  | opens the Google Translate website with the word(s) translated to Ukrainian |
+| open {YOUR_BROWSER_NAME}                                    | this will open the 'custom' browser you specified during setup |
+| open Google Chrome                                          | opens Google Chrome on *Windows 10* if it is in the default installation location |
+| open Sublime Text                                           | opens Sublime Text 3 on *Windows 10* if it is in the default installation location |
+| Dwayne Johnson Wikipedia                                    | reads out the first 2 sentences of the wiki page on what you asked |
+| what is claustrophobia?                                     | explains what somethings means, first 2 sentences of the wiki page |
+| send an email to {CONTACT_NAME}                             | send emails to contacts that you have specified during setup |
 
 ## Social Media
+
 <a target="_blank" href="https://www.twitter.com/python3x_dev"><img src="https://icons-for-free.com/iconfiles/png/512/twitter+icon-1320185153780096253.png" width="100" height="100"></a>  <a target="_blank" href="https://www.github.com/python3xdev"><img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+social+network+website+icon-1320191930698657711.png" width="100" height="100"></a>  <a target="_blank" href="https://www.linkedin.com/in/daniel-martin-a59144125/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+social+social+network+website+icon-1320191931394618705.png" width="100" height="100"></a>
