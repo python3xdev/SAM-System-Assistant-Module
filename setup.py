@@ -56,6 +56,6 @@ with open("config.json", "w") as f:
 	f.write(json_obj)
 
 print("\n")
-print(colored("    Setup complete!", "green", attrs=["bold"]) + " You may now run the __init__.py file to start SAM.")
+print(colored("    Setup complete!", "green", attrs=["bold"]) + " You may now run the __init__.pyw file to start SAM.")
 print("    Activate Sam by saying 'Hey Sam.', 'Ok Sam.' or just say 'Sam' (works best by just saying 'Sam'). Have fun!")
 input('    Press Enter To Exit...')
